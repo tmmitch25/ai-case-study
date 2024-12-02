@@ -38,36 +38,59 @@ What have been the major trends and innovations of this field over the last 5&nd
  * Regulatory Evolution: Increased oversight requiring data-driven compliance.  
 
 Major companies in this field:
-* Apollo Global Management
-* Oaktree Capital Management
-* Blackstone Credit 
+ * Apollo Global Management
+ * Oaktree Capital Management
+ * Blackstone Credit 
 
 ## Results
 
 Business Impact: 
-* In less than 20 years, CFI Partners has accumulated $6.5 billion in AUM, focusing on niche credit investments such as structured credit, distressed assets, and private lending.
+ * In less than 20 years, CFI Partners has accumulated $6.5 billion in AUM, focusing on niche credit investments such as structured credit, distressed assets, and private lending.
 
 Core Metrics:
-* 1. AUM Growth: Measures the firm's scale and success in attracting capital.
-  2. Risk-Adjusted Returns: Assesses portfolio performance relative to its risk.
-  3. ESG Alignment: Tracks compliance with client-driven sustainability goals.
-  4. Portfolio Diversification: Evaluates resilience across market conditions.  
+ * AUM Growth: Measures the firm's scale and success in attracting capital.
+ * Risk-Adjusted Returns: Assesses portfolio performance relative to its risk.
+ * ESG Alignment: Tracks compliance with client-driven sustainability goals.
+ * Portfolio Diversification: Evaluates resilience across market conditions.  
 
 Performance vs. Competitors: 
-* CFI Partners' investment strategy has competitors with larger AUM and more diverse product offerings, but as a mid-size credit shop, they stand out significantly with the ability to grow 
+ * CFI Partners' investment strategy has competitors with larger AUM and more diverse product offerings, but as a mid-size credit shop, they stand out significantly with the ability to grow 
 
 ## Recommendations
 
 Strategic Hire: AI Analyst 
-* To deepen AI integration, CFI Partners should onboard an AI analyst to revolutionize investment strategies and operational processes.                                       
+ * To deepen AI integration, CFI Partners should onboard an AI analyst to revolutionize investment strategies and operational processes.                                       
 
-#Benefits of an AI Analyst 
-* Portfolio Optimization: Advanced algorithms for better risk-return alignment.
-* Operational Efficiency: Automating routine data and reporting tasks.
-* Stress Testing: AI-driven simulations to predict portfolio performance under adverse conditions. 
+Benefits of an AI Analyst 
+ * Portfolio Optimization: Advanced algorithms for better risk-return alignment.
+ * Operational Efficiency: Automating routine data and reporting tasks.
+ * Stress Testing: AI-driven simulations to predict portfolio performance under adverse conditions.
+ * Advanced Data Analysis: Identifying credit market trends and inefficiencies.
 
-* What technologies would this additional product or service utilize?
-* This role would utilize programming languages (i.e. Python, R, SQL), Machine learning frameworks, Big Data Tools, Data visualization/reporting tools, cloud platforms, database management, and specialized financial tools such as Bloomberg 
+Technological Tools for AI Analyst
+ * Programming: Python, R, SQL for data handling and modeling.
+ * Machine Learning Frameworks: TensorFlow and or PyTorch to be used for predictive analytics.
+ * Big Data Tools: Apache Spark and or Hadoop to be used for processing financial datasets.
+ * Data Visualization/Reporting tools: Tableau and/or Power BI for interactive reporting.
+ * Specialized Financial APIs: Bloomberg Terminal for live market data. 
 
-* Why are these technologies appropriate for your solution?
-* These technologies are going to do two things: (1) advance investment strategies and (2) increase operational efficiencies 
+Appropriateness of Technologies 
+
+These technologies are vital for modern financial firms, which would allow CFI Partners to: 
+ * Enhance Decision-Making: Data-driven insights improve investment outcomes.
+ * Increase Efficiency: Automation reduces costs and improves accuracy.
+ * Achieve Scalability: Scalable solutions will aid the continuous growth of CFI Partners.
+
+## Sources 
+ *https://www.cfipartners.com/
+ *https://wallmine.com/adviser/235540/cfi-partners-llc#google_vignette
+ * "Exponential View" by Azeem Azhar
+ * "The AI in Business Podcast" by Emerj
+ * "The Meb Faber Show"
+ * Machine Learning in Finance Blog by Towards Data Science
+ * AI in Finance by WealthTech Club
+ * "The Future of Financial Services" by Deloitte Insights
+ * "AI’s Role in Portfolio Management" by Harvard Business Review
+ * McKinsey Report: "AI and Machine Learning in Investment Management"
+ * PwC: "Global AI Study – Financial Services"
+
