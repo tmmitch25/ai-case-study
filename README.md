@@ -20,14 +20,15 @@
 
 ## Business Activities
 
+## Problem Statement 
 * What specific problem is the company or project trying to solve?
-* The project is trying to solve how to further integrate AI into its business functions 
+* CFI Partners seeks to integrate AI more deeply into its business operations, focusing on portfolio optimization, risk assessment, operational efficiency.
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
 * The intended customer for CFI Partners are corporate professionals, Institutional Investors, Small and Medium Enterprises (SMEs)
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-* Differentiated culture and The Academy Group (TAG)
+* CFI Partners differentiates itself through a culture rooted in inclusion and collaboration, exemplified by its partnership with The Academy Group (TAG), fostering diversity and a unique client-first service model.
 
 
 ## Landscape
