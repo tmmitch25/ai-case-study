@@ -19,7 +19,7 @@
 
 Problem Statement 
 * What specific problem is the company or project trying to solve?
-* CFI Partners seeks to integrate AI more deeply into its business operations, focusing on portfolio optimization, risk assessment, and operational efficiency.
+  *   CFI Partners seeks to integrate AI more deeply into its business operations, focusing on portfolio optimization, risk assessment, and operational efficiency.
 
 * Company's intended customer: 
 * The intended customer for CFI Partners are corporate professionals, Institutional Investors, Small and Medium Enterprises (SMEs)
