@@ -3,14 +3,11 @@
 
 ## Overview and Origin
 
-* Name of company
-* CFI Partners
+* Name of company: CFI Partners
 
-* When was the company incorporated?
-* November 2005
+* Incorporation: November 2005
 
-* Who are the founders of the company?
-* Levoyd Robinson, Brad Couri, Eric Baer, David Dieffenbacher, Sean Haas
+* Founders: Levoyd Robinson, Brad Couri, Eric Baer, David Dieffenbacher, Sean Haas
 
 * How did the idea for the company (or project) come about?
 * Career Pivoit from supply chain to finance industry 
@@ -20,35 +17,37 @@
 
 ## Business Activities
 
-## Problem Statement 
+* Problem Statement 
 * What specific problem is the company or project trying to solve?
-* CFI Partners seeks to integrate AI more deeply into its business operations, focusing on portfolio optimization, risk assessment, operational efficiency.
+* CFI Partners seeks to integrate AI more deeply into its business operations, focusing on portfolio optimization, risk assessment, and operational efficiency.
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+* Company's intended customer: 
 * The intended customer for CFI Partners are corporate professionals, Institutional Investors, Small and Medium Enterprises (SMEs)
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* Competitive Advantage: 
 * CFI Partners differentiates itself through a culture rooted in inclusion and collaboration, exemplified by its partnership with The Academy Group (TAG), fostering diversity and a unique client-first service model.
 
 
 ## Landscape
 
-* What field is the company in?
-* Financial Services
+* Field: Financial Services
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-* Technological advances, i.e. AI, Environmental, Social, Governance) ESG Investing, Regulatory changes  
+* Technological advances, i.e., AI, Environmental, Social, Governance) ESG Investing, Regulatory changes  
 
-* What are the other major companies in this field?
+* Major companies in this field:
 * Apollo Global Management, Oaktree Capital Management, Blackstone Credit 
 
 ## Results
 
-* What has been the business impact of this company so far?
-* Impact is primarily in the credit space and currently has 6.5 billion assets under management in less than 20 years.
+* Business Impact: 
+* In less than 20 years, CFI Partners has accumulated $6.5 billion in AUM, focusing on niche credit investments such as structured credit, distressed assets, and private lending.
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-* AUM, Risk-Adjusted Returns, ESG, Portfolio diversification 
+* Core Metrics:
+* 1. AUM Growth: Measures the firm's scale and success in attracting capital.
+  2. Risk-Adjusted Returns: Assesses portfolio performance relative to its risk.
+  3. ESG Alignment: Tracks compliance with client-driven sustainability goals.
+  4. Portfolio Diversification: Evaluates resilience across market conditions.  
 
 * How is your company performing relative to competitors in the same field?
 * CFI Partners' investment strategy has competitors with larger AUM and more diverse product offerings, but as a mid-size credit shop, they stand out significantly with the ability to grow 
