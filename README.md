@@ -17,7 +17,7 @@
 
 ## Business Activities
 
-* Problem Statement 
+Problem Statement 
 * What specific problem is the company or project trying to solve?
 * CFI Partners seeks to integrate AI more deeply into its business operations, focusing on portfolio optimization, risk assessment, and operational efficiency.
 
